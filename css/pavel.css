@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #FFFBFB;
+}
+
+h1{
+  margin-top: 30px;
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  text-align: left;
+}
+
+header{
+  background: #04AE2A;
+border-radius: 12px;
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+header a{
+  color: #fff;
+  text-decoration: none;
+}
+
+section{
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title{
+  margin-top: 50px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
